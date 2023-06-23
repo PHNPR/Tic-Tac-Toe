@@ -1,5 +1,5 @@
 from enum import Enum
-from AIenginge import best_move
+from AI import best_move
 
 class PlayerType(Enum):
     AI = 'AI'
